@@ -2,11 +2,11 @@ package lab_05;
 
 import java.util.*;
 
-public class NewPosAndNeg {
+public class PosAndNeg {
     public int number;
-    public NewPosAndNeg() {
+    public PosAndNeg() {
     }
-    public NewPosAndNeg(int number) {
+    public PosAndNeg(int number) {
         this.number=number;
     }
     @Override
