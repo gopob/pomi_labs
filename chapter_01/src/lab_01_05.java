@@ -14,7 +14,7 @@ public class lab_01_05 {
         for(i = 0; i <= 9999; i++){
             c += i;
         }
-        sum = a + b;
+        sum = a + b + c;
         System.out.println("Сумма всех n-значных чисел (1 ≤ n ≤ 4) равна: "+ sum);
 
     }

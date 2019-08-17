@@ -12,9 +12,17 @@ public class lab_01_14 {
                 if( a % i == 0 & i !=1){
                     System.out.println("Число - составное");
                     System.out.println("Простые делители");
-                    for (i = 2; i < a; i++) {
-                        if (a % i == 0) {
-                            System.out.println(i+"  ");
+                    for (int j = 1; j <= a; j++){
+                        if (a % j == 0){
+                            boolean simple=true;
+                            for(int nDiv=2 ; nDiv<=j/2; nDiv++)
+                                if(j%nDiv == 0){
+                                    simple=false;
+                                    break;
+                                }
+                            if (simple)
+                                System.out.println(j);
+
                         }
                     }
                     break;

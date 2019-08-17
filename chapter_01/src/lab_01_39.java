@@ -3,13 +3,13 @@ import java.util.Scanner;
 
 public class lab_01_39 {
     public static void main(String[] args) {
-        int sum = 0, k = 0, imax, jmax, kmin, kmax, temp;
+        int sum = 0, k = 0, imax, jmax, imaxd, jmaxd, kmin, kmax, temp;
         Random random = new Random();
         Scanner in = new Scanner(System.in);
         System.out.println("Введите размерность матрицы NxM: ");
         int n = in.nextInt();
         int m = in.nextInt();
-        int Arr[][] = new int[n][m];
+        int[][] Arr = new int[n][m];
 
         System.out.println("Initial Array");
         for (int i = 0; i < n; i++) {
@@ -33,7 +33,9 @@ public class lab_01_39 {
             }
             System.out.println();
         }
-        System.out.println("Max = Arr["+imax+"]["+jmax+"] = "+Arr[imax][jmax]);
+        imaxd = imax + 1;
+        jmaxd = jmax + 1;
+        System.out.println("Max = Arr["+imaxd+"]["+jmaxd+"] = "+Arr[imax][jmax]);
 
         if (n < m) {
             kmin = n;
@@ -41,11 +43,14 @@ public class lab_01_39 {
         else {
             kmin = m;
         }
+        System.out.println("kmin "+ kmin);
         do {
             System.out.println("Введите число K: ");
             k = in.nextInt();
+            k--;
         }
-        while (k > 1 && k < kmin);
+        while (k < 0 && k > kmin);
+
 
         for (int i = 0; i < n; i++) {
             temp = Arr[i][k];

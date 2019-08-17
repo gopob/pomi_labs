@@ -27,5 +27,6 @@ public class lab_01_28 {
                     System.out.println("Чаще всего встречается 1");
             }
         }
+        System.out.println();
     }
 }

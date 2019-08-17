@@ -1,11 +1,10 @@
 package lab_03_04.lab_03_04_01;
 
-public abstract class Student implements Abiturient{
+public abstract class Student implements Abiturient {
     private static String s;
-    public Student() {
-    }
+    public Student() {}
     public Student(String s) {
-        this.s=s;
+        this.s = s;
     }
     public String getS() {
         return s;
@@ -14,7 +13,7 @@ public abstract class Student implements Abiturient{
         this.s = s;
     }
     public static String string() {
-        s="Ходит в универ";
+        s = "Ходит в университет";
         return s;
     }
     public abstract void goToClasses();

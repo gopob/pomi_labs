@@ -21,7 +21,7 @@ public class lab_01_07{
                 else{
                     ++c;
                     if(b == a){
-                        System.out.println("Вы угадали с "+c+" попытки");
+                        System.out.println("Вы угадали с "+ c +" попытки");
                     }
                     else{
                         if(b < a)System.out.println("Число больше");

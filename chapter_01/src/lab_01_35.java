@@ -10,7 +10,7 @@ public class lab_01_35 {
         int n = in.nextInt();
         int m = in.nextInt();
 
-        int Arr[][] = new int[n][m];
+        int [][] Arr = new int[n][m];
         System.out.println("Initial Array");
         for (int i = 0; i < n; i++){
             for (int j = 0; j < m; j++){
@@ -22,13 +22,19 @@ public class lab_01_35 {
         }
 
 
-        for (int i = 0; i < n; i++){
-            for (int j = 0; j < m; j++){
-                if(Arr[i][j] > (sum - Arr[i][j])) {
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                sum = sum + Arr[j][i];
+            }
+            for(int a = 0; a < n; a++)
+            {
+                if(Arr[a][i] > sum - Arr[a][i]) {
                     count++;
-
                 }
             }
+            sum=0;
         }
         System.out.printf("Особых элементов - %d", count);
     }

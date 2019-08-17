@@ -1,11 +1,10 @@
 package lab_03_04.lab_03_04_03;
 
-public abstract class PublicBuilding implements Building{
+public abstract class PublicBuilding implements Building {
     private int people;
-    public PublicBuilding() {
-    }
+    public PublicBuilding() {}
     public PublicBuilding(int people) {
-        this.people=people;
+        this.people = people;
     }
     public int getPeople() {
         return people;
@@ -15,4 +14,3 @@ public abstract class PublicBuilding implements Building{
     }
     public abstract void look();
 }
-

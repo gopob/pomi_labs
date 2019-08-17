@@ -9,7 +9,7 @@ public class lab_01_01 {
         int num = in.nextInt();
         for (int i = 0; i < 4; i++) {
 
-            System.out.printf("%d степень числа %d =  %.0f  ", i, num, Math.pow(num, i));
+            System.out.printf("%d степень числа %d = %.0f", i, num, Math.pow(num, i));
         }
 
         in.close();

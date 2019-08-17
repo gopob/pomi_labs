@@ -5,7 +5,7 @@ public class lab_01_04 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Введите паль из 4 цифр:");
+        System.out.println("Введите пароль из 4 цифр:");
         int password = 0;
         while(in.hasNextInt()){
             password = in.nextInt();
