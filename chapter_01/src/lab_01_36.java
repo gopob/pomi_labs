@@ -11,9 +11,10 @@ public class lab_01_36 {
         if (in.hasNextInt()) {
             n = in.nextInt();
         }
-        int Arr[][] = new int[n][n];
+        int [][] Arr = new int[n][n];
         System.out.println("Введите заданный номер K: ");
         int k = in.nextInt();
+        k--;
         System.out.println("Initial Array");
         for (int i = 0; i < n; i++){
             for (int j = 0; j < n; j++){
@@ -33,8 +34,6 @@ public class lab_01_36 {
             Arr[max][j] = Arr[k][j];
             Arr[k][j] = temp;
         }
-
-
 
         System.out.println("Modified Array");
 

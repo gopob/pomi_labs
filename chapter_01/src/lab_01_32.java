@@ -5,7 +5,7 @@ public class lab_01_32 {
     public static void main(String[] args){
         Random random = new Random();
         int [][] Arr = new int[6][7];
-        int max=0, temp_index=0;;
+        int max = 0, temp_index = 0;;
         for(int i = 0; i < Arr.length; i++){
 
             System.out.print("Строка №"+i+" ");

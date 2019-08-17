@@ -9,7 +9,7 @@ public class lab_01_37 {
         System.out.println("Введите размерность матрицы NxM: ");
         int n = in.nextInt();
         int m = in.nextInt();
-        int Arr[][] = new int[n][m];
+        int [][] Arr = new int[n][m];
         System.out.println("Initial Array");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++){
@@ -19,32 +19,37 @@ public class lab_01_37 {
             }
             System.out.println();
         }
+        jmin = 0;
+        jmax = 0;
 
-        for (int i = 0; i < n; i++) {
-            max = Arr[i][1];
-            min = Arr[i][1];
-            jmax = 1;
-            jmin = 1;
-            for (int j = 0; j < m; j++){
-               if (Arr[i][j] > max) {
-                   max = Arr[i][j];
-                   jmax = j;
-               }
+        for (int i = 0; i < n; i++){
+            jmax = 0;
+            max = Arr[i][jmax];
 
-                if (Arr[i][j] < min) {
-                    min = Arr[i][j];
+            jmin = m - 1;
+            min = Arr[i][jmin];
+
+            for (int j = 0; j < m; j++) {
+                if (Arr[i][j] <= min) {
                     jmin = j;
+                    min = Arr[i][jmin];
+                }
+                if (Arr[i][j] >= max) {
+                    jmax = j;
+                    max = Arr[i][jmax];
                 }
             }
 
-            temp1 = Arr[i][1];
-            Arr[i][1] = Arr[i][jmax];
+            temp1 = Arr[i][0];
+            Arr[i][0] = Arr[i][jmax];
             Arr[i][jmax] = temp1;
 
-            temp2 = Arr[i][m];
-            Arr[i][m] = Arr[i][jmin];
+
+            temp2 = Arr[i][m - 1];
+            Arr[i][m - 1] = Arr[i][jmin];
             Arr[i][jmin] = temp2;
         }
+
 
         System.out.println("Modified Array");
 

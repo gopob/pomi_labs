@@ -10,12 +10,11 @@ public class lab_01_40 {
         if (in.hasNextInt()) {
             n = in.nextInt();
         }
-        int Arr[][] = new int[n][n];
+        int[][] Arr = new int[n][n];
         System.out.println("Initial Array");
         for (int i = 0; i < n; i++){
             for (int j = 0; j < n; j++){
                 Arr[i][j] = random.nextInt(50) - 30;
-
                 System.out.print(Arr[i][j] + " ");
             }
             System.out.println();
@@ -32,7 +31,6 @@ public class lab_01_40 {
                 }
                 System.out.print(Arr[i][j] + " ");
             }
-
 
             System.out.println();
 

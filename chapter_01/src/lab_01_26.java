@@ -16,6 +16,7 @@ public class lab_01_26 {
             if (Arr[i] >= max ) {
                 max = Arr[i];
                 index = i;
+                index++;
             }
         }
         System.out.println("Самое большое число " + max + " и индекс последнего вхождения " + index);
