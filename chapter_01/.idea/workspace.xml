@@ -3,22 +3,58 @@
   <component name="ChangeListManager">
     <list default="true" id="76f6da05-fb90-4775-94fd-6dac9440a6c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_01_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_01_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_01_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_02/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_02/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_03/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_03/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_04/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_04/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_05/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_05/Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_06/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_06/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_07/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_07/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_08/Equation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_08/Equation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_02/src/lab_02_08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_02/src/lab_02_08/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/RightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Trapeze.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Trapeze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Norm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Norm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/ExternalStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/ExternalStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/PublicBuilding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/PublicBuilding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Theatre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Carrier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Tanker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/AircraftCarrier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/WarShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/VideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/VideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/PublicTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/PublicTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Tram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Tram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_05/src/lab_05/BaseColl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_05/src/lab_05/BaseColl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_05/src/lab_05/CircleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_05/src/lab_05/CircleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_05/src/lab_05/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_05/src/lab_05/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter_05/src/lab_05/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter_05/src/lab_05/Sum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,30 +70,111 @@
     <favorites_list name="01_01" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab_01_38.java">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="78">
+              <caret line="91" column="49" lean-forward="true" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
+              <folding>
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#1167#1178#0" expanded="true" />
+                <element signature="e#2904#2915#0" expanded="true" />
+                <element signature="e#3071#3082#0" expanded="true" />
+                <element signature="e#3465#3466#0" expanded="true" />
+                <element signature="e#3545#3546#0" expanded="true" />
+                <element signature="e#3604#3615#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab_01_39.java">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/PosAndNeg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="318">
+              <caret line="31" column="60" lean-forward="true" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/CircleNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#1434#1450#0" expanded="true" />
+                <element signature="e#1507#1518#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/MaxXMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#354#361#0" expanded="true" />
+                <element signature="e#1157#1164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Comparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab_01_40.java">
+        <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/BaseColl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="421">
+              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+              <folding>
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,10 +193,55 @@
       <find>sc</find>
       <find>kurs</find>
       <find>Fraction</find>
+      <find>fac</find>
+      <find>getfac</find>
+      <find>create</find>
+      <find>im</find>
+      <find>fam</find>
+      <find>ot</find>
+      <find>tel</find>
+      <find>diag</find>
+      <find>getdiag</find>
+      <find>setdiag</find>
+      <find>surname</find>
+      <find>otchestvo</find>
+      <find>adress</find>
+      <find>collor</find>
+      <find>gettov</find>
+      <find>mas</find>
+      <find>showmas</find>
     </findStrings>
     <replaceStrings>
-      <replace />
-      <replace>year</replace>
+      <replace>setDate</replace>
+      <replace>getDate</replace>
+      <replace>faculty</replace>
+      <replace>setFaculty</replace>
+      <replace>getFaculty</replace>
+      <replace>setName</replace>
+      <replace>getName</replace>
+      <replace>name</replace>
+      <replace>setMiddleName</replace>
+      <replace>getMiddleName</replace>
+      <replace>getLastName</replace>
+      <replace>setLastName</replace>
+      <replace>setAddress</replace>
+      <replace>getAddress</replace>
+      <replace>phone</replace>
+      <replace>setPhone</replace>
+      <replace>getPhone</replace>
+      <replace>diagnosis</replace>
+      <replace>getDiagnosis</replace>
+      <replace>setDiagnosis</replace>
+      <replace>lastName</replace>
+      <replace>middleName</replace>
+      <replace>address</replace>
+      <replace>color</replace>
+      <replace>item</replace>
+      <replace>setItem</replace>
+      <replace>getItem</replace>
+      <replace>createArr</replace>
+      <replace>arr</replace>
+      <replace>showArr</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -93,57 +255,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/RightTriangle.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Triangle.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_02/Circle.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_02/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_03/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_03/Storage.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_04/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_04/Book.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_05/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_05/Fraction.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_06/Vector.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_06/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_07/Array.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_07/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_08/Equation.java" />
+        <option value="$PROJECT_DIR$/../chapter_02/src/lab_02_08/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Circle.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Vector.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Matrix.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_03/Norm.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_03/ComplexNumber.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Rectangle.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/RightTriangle.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Trapeze.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Triangle.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Main.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Student.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/ExternalStudent.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Abiturient.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Main.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Building.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Theatre.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Boss.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Main.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Main.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/PublicBuilding.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Boss.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Engineer.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Main.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Employee.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Theatre.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Ship.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Tanker.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Main.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Carrier.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/WarShip.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Ship.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/AircraftCarrier.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/VideoPlayer.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Technic.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/AircraftCarrier.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/WarShip.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Carrier.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Main.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Tanker.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Main.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Player.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/TransportVehicle.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Tram.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/VideoPlayer.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Main.java" />
         <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/PublicTransport.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Area.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_02/Main.java" />
-        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Main.java" />
-        <option value="$PROJECT_DIR$/../chapter_05/src/lab_05/NewPosAndNeg.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_01.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_04.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_05.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_07.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_14.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_17.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_18.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_22.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_26.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_28.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_32.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_36.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_35.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_37.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_38.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_39.java" />
-        <option value="$PROJECT_DIR$/src/lab_01_40.java" />
+        <option value="$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Tram.java" />
+        <option value="$PROJECT_DIR$/../chapter_05/src/lab_05/Student.java" />
+        <option value="$PROJECT_DIR$/../chapter_05/src/lab_05/CircleNumber.java" />
+        <option value="$PROJECT_DIR$/../chapter_05/src/lab_05/BaseColl.java" />
+        <option value="$PROJECT_DIR$/../chapter_05/src/lab_05/Sum.java" />
       </list>
     </option>
   </component>
@@ -158,24 +320,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="01_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="01_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_05" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter_05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +353,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,49 +367,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lab_01_40">
-    <configuration name="lab_01_36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_01_36" />
-      <module name="chapter_01" />
+  <component name="RunManager" selected="Application.BaseColl">
+    <configuration name="BaseColl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_05.BaseColl" />
+      <module name="chapter_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_01_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_01_37" />
-      <module name="chapter_01" />
+    <configuration name="CircleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_05.CircleNumber" />
+      <module name="chapter_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_01_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_01_38" />
-      <module name="chapter_01" />
+    <configuration name="MaxXMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_05.MaxXMin" />
+      <module name="chapter_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_01_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_01_39" />
-      <module name="chapter_01" />
+    <configuration name="PosAndNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_05.PosAndNeg" />
+      <module name="chapter_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab_01_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_01_40" />
-      <module name="chapter_01" />
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_05.Sum" />
+      <module name="chapter_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab_01_40" />
-        <item itemvalue="Application.lab_01_39" />
-        <item itemvalue="Application.lab_01_38" />
-        <item itemvalue="Application.lab_01_37" />
-        <item itemvalue="Application.lab_01_36" />
+        <item itemvalue="Application.BaseColl" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.MaxXMin" />
+        <item itemvalue="Application.CircleNumber" />
+        <item itemvalue="Application.PosAndNeg" />
       </list>
     </recent_temporary>
   </component>
@@ -258,12 +457,13 @@
       <workItem from="1565593950175" duration="8028000" />
       <workItem from="1565616372236" duration="3676000" />
       <workItem from="1565726079370" duration="7173000" />
-      <workItem from="1566054500631" duration="9512000" />
+      <workItem from="1566054500631" duration="12459000" />
+      <workItem from="1566068471159" duration="5512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46024000" />
+    <option name="totallyTimeSpent" value="54483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="975" extended-state="6" />
@@ -274,7 +474,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5041322" side_tool="true" weight="0.13186814" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49586776" visible="true" weight="0.13186814" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49586776" visible="true" weight="0.13308914" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -316,141 +516,379 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Main.java">
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_01/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Engineer.java">
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_01/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="-238">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_03/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_03/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_03/Norm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_03/ComplexNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Trapeze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/RightTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/Abiturient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_01/ExternalStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Boss.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_02/Engineer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/PublicBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Theatre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Carrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Main.java">
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/WarShip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Tanker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Ship.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/AircraftCarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Ship.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/WarShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Technic.java">
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_04/AircraftCarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_03/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/VideoPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Technic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_06/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Tanker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Carrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/TransportVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -459,272 +897,117 @@
         <state relative-caret-position="270">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/TransportVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_05/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/PublicTransport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_04/lab_03_04_07/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_03/src/lab_03_02/Area.java">
+    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="78">
+          <caret line="91" column="49" lean-forward="true" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#1167#1178#0" expanded="true" />
+            <element signature="e#2904#2915#0" expanded="true" />
+            <element signature="e#3071#3082#0" expanded="true" />
+            <element signature="e#3465#3466#0" expanded="true" />
+            <element signature="e#3545#3546#0" expanded="true" />
+            <element signature="e#3604#3615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/CircleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#1434#1450#0" expanded="true" />
+            <element signature="e#1507#1518#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/PosAndNeg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="318">
+          <caret line="31" column="60" lean-forward="true" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/MaxXMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
           <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#405#416#0" expanded="true" />
-            <element signature="e#868#879#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#354#361#0" expanded="true" />
+            <element signature="e#1157#1164#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/BaseColl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chapter_05/src/lab_05/CircleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_02_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_37.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="421">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_01_40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -778,7 +1061,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>chapter_01</last-edited>
+          <last-edited>chapter_03</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

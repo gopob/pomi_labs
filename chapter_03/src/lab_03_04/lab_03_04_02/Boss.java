@@ -6,7 +6,7 @@ public class Boss extends Engineer{
     }
     public Boss(int clock,String s) {
         super(clock);
-        this.s=s;
+        this.s = s;
     }
     public void howmuch() {
         super.howmuch();

@@ -1,9 +1,7 @@
 package lab_02_07;
 
-
-
 public class Main {
-    public static void main ( String[] args ){
+    public static void main(String[] args) {
         Array brs1 = new Array("QWERTY123");
         Array brs2 = new Array("QanRTkj32p1Y");
         Array brs3 = new Array("asdfg0");

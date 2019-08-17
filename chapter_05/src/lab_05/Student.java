@@ -3,15 +3,15 @@ package lab_05;
 import java.util.*;
 import java.util.Comparator;
 
-public class Student implements Comparable{
+public class Student implements Comparable {
     private String name;
     private int course;
     public Student() {
 
     }
-    public Student(String name,int course) {
-        this.name=name;
-        this.course=course;
+    public Student(String name, int course) {
+        this.name = name;
+        this.course = course;
     }
     public String getName() {
         return name;
@@ -29,45 +29,45 @@ public class Student implements Comparable{
     public String toString() {
         return "Student [name=" + name + ", course=" + course + "]";
     }
-    public void printStudents(LinkedList<Student> students, int course) {
-        Iterator<Student> itr = students.iterator();
+    public void printStudents(LinkedList < Student > students, int course) {
+        Iterator < Student > itr = students.iterator();
         while (itr.hasNext()) {
             Student element = itr.next();
-            if(element.getCourse()==course) {
+            if (element.getCourse() == course) {
                 System.out.println(element.toString());
             }
         }
     }
-    public void union(LinkedList<Student> set1,LinkedList<Student> set2) {
-        LinkedList<Student> unionStudents=new LinkedList<Student>();
+    public void union(LinkedList < Student > set1, LinkedList < Student > set2) {
+        LinkedList < Student > unionStudents = new LinkedList < Student > ();
         set1.addAll(set2);
         unionStudents.addAll(set1);
-        Iterator<Student> itr = unionStudents.iterator();
+        Iterator < Student > itr = unionStudents.iterator();
         while (itr.hasNext()) {
             Student element = itr.next();
             System.out.println(element.toString());
         }
     }
-    public void intersect(LinkedList<Student> set1, LinkedList<Student> set2) {
-        int t=0;
-        Iterator<Student> itr1 = set1.iterator();
+    public void intersect(LinkedList < Student > set1, LinkedList < Student > set2) {
+        int t = 0;
+        Iterator < Student > itr1 = set1.iterator();
         while (itr1.hasNext()) {
             Student element1 = itr1.next();
-            for(Student o:set2) {
-                if(element1.equals(o)) {
+            for (Student o: set2) {
+                if (element1.equals(o)) {
                     t++;
                 }
             }
         }
-        if(t==0) {
+        if (t == 0) {
             System.out.println("false");
-        }else {
+        } else {
             System.out.println("true");
         }
     }
-    public static LinkedList compare(LinkedList<Student> arr) {
-        for(int i=0;i<arr.size();i++) {
-            if(arr.get(i).course<arr.getLast().course) {
+    public static LinkedList compare(LinkedList < Student > arr) {
+        for (int i = 0; i < arr.size(); i++) {
+            if (arr.get(i).course < arr.getLast().course) {
                 arr.addFirst(arr.pollLast());
             }
         }
@@ -77,38 +77,38 @@ public class Student implements Comparable{
         compare(arr);
         return arr;
     }
-    public boolean comparison(TreeSet<Student> mas,LinkedList<Student> arr) {
-        if(mas.containsAll(new Student().compareList(arr))) {
+    public boolean comparison(TreeSet < Student > mas, LinkedList < Student > arr) {
+        if (mas.containsAll(new Student().compareList(arr))) {
             return true;
-        }else {
+        } else {
             return false;
         }
     }
 
     public static void main(String[] args) {
-        Student ob=new Student();
-        Student petrov=new Student("Petr",3);
-        Student ivanov=new Student("Ivan",2);
-        Student sidorov=new Student("Stas",1);
-        Student romanov=new Student("Roma", 4);
-        LinkedList<Student> students=new LinkedList<Student>();
+        Student ob = new Student();
+        Student petrov = new Student("Petr", 3);
+        Student ivanov = new Student("Ivan", 2);
+        Student sidorov = new Student("Stas", 1);
+        Student romanov = new Student("Roma", 4);
+        LinkedList < Student > students = new LinkedList < Student > ();
         students.add(sidorov);
         students.add(petrov);
         students.add(ivanov);
-        LinkedList<Student> newstudents=new LinkedList<Student>();
+        LinkedList < Student > newstudents = new LinkedList < Student > ();
         newstudents.add(romanov);
         newstudents.add(sidorov);
-//ob.printStudents(students,1);
-//ob.union(students, newstudents);
-//ob.intersect(students, newstudents);
+        ob.printStudents(students, 1);
+        ob.union(students, newstudents);
+        ob.intersect(students, newstudents);
         ob.compareList(students);
-        Comparator<Student> comp=new Comparator<Student>(){
+        Comparator < Student > comp = new Comparator < Student > () {
             @Override
             public int compare(Student arg0, Student arg1) {
                 return Integer.compare(arg1.course, arg0.course);
             }
         };
-        TreeSet<Student> mas=new TreeSet<Student>(comp);
+        TreeSet < Student > mas = new TreeSet < Student > (comp);
         mas.add(petrov);
         mas.add(sidorov);
         mas.add(ivanov);
