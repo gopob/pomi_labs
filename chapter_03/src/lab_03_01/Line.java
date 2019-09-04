@@ -2,7 +2,7 @@ package lab_03_01;
 
 
 import java.util.Scanner;
-public class Line {
+public class Line implements Arifmetic{
     public char mas[];
     public Line() {
 

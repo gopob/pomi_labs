@@ -6,8 +6,8 @@ public class Main {
         ob.show();
 
         int time1 = ob.showCentre(2,3);
-        System.out.println("Изменённая координа х: " + ob.x);
-        System.out.println("Изменённая координа у: " + ob.y);
+        System.out.println("Изменённая координата х: " + ob.x);
+        System.out.println("Изменённая координата у: " + ob.y);
 
         int time2 = ob.showRadius(2);
         System.out.println("Изменённый радиус: " + ob.r);

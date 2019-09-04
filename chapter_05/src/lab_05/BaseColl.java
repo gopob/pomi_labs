@@ -3,6 +3,8 @@ package lab_05;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
+
+
 public class BaseColl implements StorageNumber {
     public int number;
     public BaseColl() {}
@@ -25,15 +27,17 @@ public class BaseColl implements StorageNumber {
                     if (scc.hasNextInt()) {
                         arr.add(new BaseColl(scc.nextInt()));
                     } else {
-                        if (scc.nextLine().equals("end"))
+                        if (scc.nextLine().equals("end")) {
                             break;
+                        }
+
                     }
                 }
                 Iterator itr = arr.iterator();
                 System.out.print("[");
                 while (itr.hasNext()) {
                     Object element = itr.next();
-                    System.out.print(element.toString() + " ");
+                    System.out.print(element + " ");
                 }
                 System.out.print("]");
             } else {
@@ -56,7 +60,7 @@ public class BaseColl implements StorageNumber {
                     System.out.print("[");
                     while (itr.hasNext()) {
                         Object element = itr.next();
-                        System.out.print(element.toString() + " ");
+                        System.out.print(element + " ");
                     }
                     System.out.print("]");
                 } else {
@@ -68,22 +72,31 @@ public class BaseColl implements StorageNumber {
         return arr;
     }
     public void find(ArrayList < Integer > arr, int find) {
-        int temp = Math.abs(arr.get(0) - find);
-        for (Integer o: arr) {
-            if (Math.abs(o - find) < temp) {
-                temp = o;
+        Object zero = arr.get(0);
+        int intZero = Integer.parseInt(zero.toString());
+        int temp = Math.abs(find - intZero);
+        int result = intZero;
+        for (int i = 0; i < arr.size(); i++ ) {
+            Object elem =  arr.get(i);
+
+            int intElem = Integer.parseInt(elem.toString());
+            if ( Math.abs(find - intElem) <= temp) {
+               temp = Math.abs(find - intElem);
+               result=intElem;
             }
         }
-        System.out.println(temp);
+        System.out.println(" Ближайшее число к " + find + " равно "+result);
+
+
     }
     public static void main(String[] args) {
         BaseColl ob = new BaseColl();
         ArrayList < Integer > arr = new ArrayList();
         arr.add(1);
-        arr.add(1);
-        arr.add(3);
-        arr.add(7);
+        arr.add(2);
+        arr.add(9);
+        arr.add(10);
         ob.addAndremove(arr);
-        ob.find(arr, 4);
+        ob.find(arr, 19);
     }
 }

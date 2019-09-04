@@ -13,7 +13,7 @@ public abstract class Student implements Abiturient {
         this.s = s;
     }
     public static String string() {
-        s = "Ходит в университет";
+        s = "Что-то делает в течение ";
         return s;
     }
     public abstract void goToClasses();

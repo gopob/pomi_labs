@@ -1,9 +1,8 @@
 package lab_03_01;
 
-
 import java.util.Arrays;
 import java.util.Scanner;
-public class Matrix {
+public class Matrix implements Arifmetic {
     public int mas[][];
     public Matrix() {
     }
@@ -75,6 +74,7 @@ public class Matrix {
                     }
                 }
             }
+
 
             scc.close();
         }

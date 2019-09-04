@@ -101,10 +101,11 @@ public class Book {
                 System.out.println("Данной книги нет");
             }
         }
-        sc.close();
+
     }
     public static void spisA1(Book[] mas, String x, String t) {
         int b = 0;
+
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите книгу,автора которой хотите изменить: ");
         if (sc.hasNextLine()) {
