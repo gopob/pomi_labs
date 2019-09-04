@@ -1,7 +1,8 @@
 package lab_03_01;
 
+
 import java.util.Scanner;
-public class Vector {
+public class Vector implements Arifmetic{
     public int arr[];
     public Vector() {
     }

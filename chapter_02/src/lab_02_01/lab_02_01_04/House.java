@@ -115,16 +115,16 @@ public class House {
         if (s.hasNextInt()) {
             a = s.nextInt();
             Scanner sc = new Scanner(System.in);
-            System.out.print("Введите начальное значение площади: ");
+            System.out.print("Введите начальный этаж: ");
             if (sc.hasNextDouble()) {
                 b = sc.nextDouble();
                 Scanner scc = new Scanner(System.in);
-                System.out.print("Введите конечное значение площади: ");
+                System.out.print("Введите конечный этаж: ");
                 if (scc.hasNextDouble()) {
                     c = scc.nextDouble();
 
                     for (int i = 0; i < arr.length; i++) {
-                        if (arr[i].getRoom() == a && arr[i].getArea() > b && arr[i].getArea() < c) {
+                        if (arr[i].getRoom() == a && arr[i].getFloor() >= b && arr[i].getFloor() <= c) {
                             arr[i].show();
                             d++;
                         }

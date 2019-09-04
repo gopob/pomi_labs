@@ -6,8 +6,8 @@ public class Student {
     private int id;
     private String surName;
     private String name;
-    private String otchesto;
-    private String adress;
+    private String middleName;
+    private String address;
     private String phone;
     private int[] rating;
 
@@ -35,20 +35,20 @@ public class Student {
         this.name = name;
     }
 
-    public String getOtchesto() {
-        return otchesto;
+    public String getMiddleName() {
+        return middleName;
     }
 
-    public void setOtchesto(String otchesto) {
-        this.otchesto = otchesto;
+    public void setMiddleName(String middleName) {
+        this.middleName = middleName;
     }
 
-    public String getAdress() {
-        return adress;
+    public String getAddress() {
+        return address;
     }
 
-    public void setAdress(String adress) {
-        this.adress = adress;
+    public void setAdress(String address) {
+        this.address = address;
     }
 
     public String getPhone() {
@@ -76,7 +76,7 @@ public class Student {
     }
 
     public void printInfo(){
-        System.out.println(id+" "+surName+" "+name+" "+otchesto+" "+adress+" "+phone+" "+printArry(rating));
+        System.out.println(id+" "+surName+" "+name+" "+middleName+" "+address+" "+phone+" "+printArry(rating));
     }
 
     public int avg(int [] rating){
@@ -87,14 +87,14 @@ public class Student {
         return result/rating.length;
     }
 
-    public Student(int id, String surName, String name, String otchesto,
-                   String adress, String phone, int [] rating) {
+    public Student(int id, String surName, String name, String middleName,
+                   String address, String phone, int [] rating) {
         super();
         this.id = id;
         this.surName = surName;
         this.name = name;
-        this.otchesto = otchesto;
-        this.adress = adress;
+        this.middleName = middleName;
+        this.address = address;
         this.phone = phone;
         this.rating = rating;
     }

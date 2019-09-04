@@ -75,8 +75,8 @@ public class Patient {
     }
     public static Patient[] createArr(int n) {
         Patient arr[] = new Patient[n];
-        arr[0] = new Patient(1, "Petrov", "Petr", "Petrovich", "Petrovskaya 22/1", "222222", 663101, "Лейкимия");
-        arr[1] = new Patient(2, "Ivanov", "Ivan", "Ivanovich", "Ivanovskaya 11/1", "111111", 563101, "Пневмания");
+        arr[0] = new Patient(1, "Petrov", "Petr", "Petrovich", "Petrovskaya 22/1", "222222", 4, "Лейкемия");
+        arr[1] = new Patient(2, "Ivanov", "Ivan", "Ivanovich", "Ivanovskaya 11/1", "111111", 60, "Пневмония");
         return arr;
     }
     public static void showArr(Patient[] arr) {
@@ -117,7 +117,7 @@ public class Patient {
                 b = scc.nextInt();
 
                 for (int i = 0; i < arr.length; i++) {
-                    if (arr[i].getNumber() > a && arr[i].getNumber() < b) {
+                    if (arr[i].getNumber() >= a && arr[i].getNumber() <= b) {
                         arr[i].show();
                         c++;
                     }

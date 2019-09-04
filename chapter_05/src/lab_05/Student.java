@@ -113,6 +113,5 @@ public class Student implements Comparable {
         mas.add(sidorov);
         mas.add(ivanov);
         System.out.println(ob.comparison(mas, students));
-
     }
 }

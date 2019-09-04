@@ -61,17 +61,17 @@ public class Storage {
         System.out.println();
     }
 
-    public static void spisAk(Storage[] arr) {
+    public static void spisAk(Storage[] arr, int difference) {
         for (int i = 0; i < arr.length; i++) {
             k = 12;
-            k = arr[i].getKol() + 12;
+            k = arr[i].getKol() + difference;
             arr[i].shownewkol();
         }
     }
-    public static void spisAc(Storage[] arr) {
+    public static void spisAc(Storage[] arr, int difference) {
         for (int i = 0; i < arr.length; i++) {
             c = 12;
-            c = arr[i].getCost() + 12;
+            c = arr[i].getCost() + difference;
             arr[i].shownewcost();
         }
     }

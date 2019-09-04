@@ -39,7 +39,7 @@ public class Sum {
         arr.add(new Sum(2));
         arr.add(new Sum(3));
         arr.add(new Sum(4));
-        arr.add(new Sum(5));
+        arr.add(new Sum(52));
         arr.add(new Sum(6));
         try {
             System.out.println(sum(arr));
